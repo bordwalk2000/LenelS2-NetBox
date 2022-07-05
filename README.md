@@ -51,4 +51,6 @@ You can find source of ModuleBuilder located on [GitHub](https://github.com/Posh
 
 ---
 
+Originally forked from [bciu22/PowerShell-S2-API](https://github.com/bciu22/PowerShell-S2-API)
+
 Maintained by Bradley Herbst
